@@ -16,9 +16,13 @@ Didesain menggunakan **konsep OOP dan exception handling** seperti pada versi Ko
 ## 🧩 Struktur File
 Semua file sumber harus disimpan dalam direktori `src/`:
 src/
+
 ├── JualBeliEmas.java (class utama)
+
 ├── Beli.java (turunan dari JualBeliEmas)
+
 ├── Jual.java (turunan dari JualBeliEmas)
+
 └── Main.java (fungsi main)
 
 ## 🚀 Cara Menjalankan
